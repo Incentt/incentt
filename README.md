@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **wisnatavincent@gmail.com**
 
-- ⚡ Fun fact **I play tetr.io**
+- ⚡ Fun fact **I like to play fun games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
