@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Games Development<br><br>👨‍💻 Some of my projects are available at vincentwisnata.com<br><br>💬 Ask me about Games Design<br><br>📫 How to reach me wisnatavincent@gmail.com<br><br>⚡ Fun fact I like to play fun games
+👯 Specialized in Games Development, AR/VR Development, Web, Software, Multimedia Design<br><br>👨‍💻 Some of my projects are available at vincentwisnata.com<br><br>💬 Ask me about Games Design<br><br>📫 How to reach me wisnatavincent@gmail.com<br><br>⚡ Fun fact I like to play fun games
 
 
 ## 🌐 Socials:
