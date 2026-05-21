@@ -10,10 +10,10 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=incentt&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=incentt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=incentt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=incentt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=incentt&theme=dark&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
